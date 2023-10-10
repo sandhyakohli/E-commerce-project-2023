@@ -1,0 +1,21 @@
+/* Reset some default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the category container */
+.category {
+    border-radius: 50%;
+    display: inline-block;
+    
+    padding: 30px;
+    margin: 30px;
+    text-align: center;
+}
+
+
+
+
+
+
